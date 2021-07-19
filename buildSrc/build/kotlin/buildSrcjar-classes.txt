@@ -1,0 +1,1 @@
+/Users/yubo/AndroidStudioProjects/TestDependencies/buildSrc/build/classes/kotlin/main/Deps.class:/Users/yubo/AndroidStudioProjects/TestDependencies/buildSrc/build/classes/kotlin/main/Versions.class
